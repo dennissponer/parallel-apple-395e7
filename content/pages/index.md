@@ -19,7 +19,7 @@ sections:
     title: How it Works
     subtitle: Just take a picture of your HSA Card and we do the Rest!
     features:
-      - title: The Best Feature of Your Services
+      - title: Never pay for your drugs at the pharmacy again!
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
         content: >-
