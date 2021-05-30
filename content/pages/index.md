@@ -16,7 +16,7 @@ sections:
   - section_id: features
     type: section_features
     background: gray
-    title: Features
+    title: How it Works
     subtitle: Just take a picture of your HSA Card and we do the Rest!
     features:
       - title: The Best Feature of Your Services
