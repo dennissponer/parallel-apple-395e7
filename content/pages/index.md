@@ -47,7 +47,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Your Prescription Costs - All in One Place
+      - title: Your Pharmacy Costs - All in One Place
         image: images/feature3.png
         image_alt: App user profile preview
         content: >
