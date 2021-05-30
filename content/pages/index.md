@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: /images/cmyk jpg2.jpg
+    image: /images/rgb gif3.gif
     image_alt: App preview
     title: HSA-Rx provides big pharmacy savings to HSA Owners!
     content: >-
