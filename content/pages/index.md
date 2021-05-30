@@ -6,9 +6,9 @@ sections:
     image: /images/rgb gif3.gif
     image_alt: App preview
     title: HSA-Rx provides big pharmacy savings to HSA Owners!
-    content: >-
-      Azimuth is the perfect theme for developers, designers and entrepreneurs
-      who need a sleek, modern SaaS site.
+    content: >
+      With our network of over 60,000 pharmacies, HSA-Rx gives you, the consumer
+      big savings on your HSA expenditures. 
     actions:
       - label: Learn More
         url: /features
