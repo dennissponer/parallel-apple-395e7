@@ -33,7 +33,7 @@ sections:
             has_icon: true
             icon: arrow-right
             icon_position: right
-      - title: Awesome Feature of Your Services
+      - title: Just take a picture of your HSA card and we do the rest!
         image: images/feature2.png
         image_alt: App users welcoming a new member
         content: >-
