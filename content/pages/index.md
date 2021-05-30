@@ -50,10 +50,10 @@ sections:
       - title: Your Prescription Costs - All in One Place
         image: images/feature3.png
         image_alt: App user profile preview
-        content: >-
-          In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean
-          quis venenatis sem. Proin eget massa id metus eleifend maximus sit
-          amet nec urna.
+        content: >
+          No more worrying about keeping track of your health savings account
+          spending for the IRS. We provide best in class reporting so that you
+          are always in compliance with the IRS rules. 
         actions:
           - label: Learn More
             url: /features
