@@ -22,10 +22,10 @@ sections:
       - title: Never pay for your drugs at the pharmacy again!
         image: images/feature1.png
         image_alt: App preview on a phone and tablet
-        content: >-
-          Nam pulvinar ante eu ultricies volutpat. Aenean hendrerit, eros sed
-          aliquet luctus, lorem risus volutpat dolor, nec dignissim diam neque
-          consequat ex.
+        content: >
+          With HSA-Rx, we automatically bill your health savings account. All at
+          the discounted prices previously available only to big insurance
+          companies!
         actions:
           - label: Learn More
             url: /features
