@@ -36,10 +36,10 @@ sections:
       - title: Just take a picture of your HSA card and we do the rest!
         image: images/feature2.png
         image_alt: App users welcoming a new member
-        content: >-
-          Etiam vel urna sed massa egestas vulputate eu a velit. Sed ut nisl nec
-          sapien interdum luctus. Cras rhoncus condimentum metus sit amet
-          auctor.
+        content: >
+          WIth our proprietary technology, we bill your health savings account
+          automatically. All while delivering best in class savings on all your
+          prescription medications. 
         actions:
           - label: Learn More
             url: /features
