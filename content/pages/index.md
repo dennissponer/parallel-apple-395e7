@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: HSA-Rx provides big pharmacy savings to HSA Owners!
     content: >
-      With our network of over 60,000 pharmacies, HSA-Rx gives you, the consumer
-      big savings on your HSA expenditures. 
+      With our network of over 60,000 pharmacies, HSA-Rx gives you big savings
+      on your HSA spending.
     actions:
       - label: Learn More
         url: /features
