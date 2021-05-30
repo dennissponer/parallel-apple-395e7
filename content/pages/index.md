@@ -20,7 +20,7 @@ sections:
     subtitle: Just take a picture of your HSA Card and we do the Rest!
     features:
       - title: Never pay for your prescriptions at the pharmacy again!
-        image: images/feature1.png
+        image: /images/HSA Logo on Phone and iPad.png
         image_alt: App preview on a phone and tablet
         content: >
           With HSA-Rx, we automatically bill your health savings account. All at
